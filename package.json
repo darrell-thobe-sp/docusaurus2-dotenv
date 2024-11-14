@@ -16,16 +16,16 @@
   "author": "Jonny Nabors",
   "license": "MIT",
   "dependencies": {
-    "dotenv-webpack": "1.7.0"
+    "dotenv-webpack": "8.1.0"
   },
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
-    "@docusaurus/types": "2.0.0-alpha.37",
-    "@types/dotenv-webpack": "1.7.0",
-    "@types/node": "13.13.5",
-    "typescript": "3.8.3"
+    "@docusaurus/types": "3.6.1",
+    "@types/dotenv-webpack": "7.0.8",
+    "@types/node": "22.9.0",
+    "typescript": "5.6.3"
   },
   "repository": {
     "type": "git",
